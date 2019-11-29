@@ -4,5 +4,7 @@
  
  O sistema é feito em Linguagem C.
  
- É um sistema de venda de bonés que pode cadastrar estoque, cliente e também removelo - los.
+ É um sistema de venda de bonés que pode cadastrar as mercadorias, clientes e também removelo - los.
+ 
+ Também o sistema tem verificação de lista de estoque e caixa.
  

@@ -1,6 +1,6 @@
 # Sitema de Venda de Bonés
 
- O Sistema é um trabalho de Algoritmos I no Curso de Sistema de Informação - UFPI - Picos.
+ O Sistema é um trabalho de Algoritmos I do primeiro periodo do Curso de Sistema de Informação - UFPI - Picos - Piauí - Brasil.
  
  O sistema é feito em Linguagem C.
  
